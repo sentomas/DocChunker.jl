@@ -11,4 +11,4 @@ A lightweight, native Julia package for intelligent document chunking and text s
 
 You can install `DocChunker` using Julia's package manager. In the Julia REPL, type `]` to enter the Pkg prompt and run:
 ```julia
-pkg> add [https://github.com/YOUR_GITHUB_USERNAME/DocChunker.jl](https://github.com/YOUR_GITHUB_USERNAME/DocChunker.jl)
+pkg> add [https://github.com/sentomas/DocChunker.jl]
