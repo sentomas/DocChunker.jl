@@ -1,0 +1,3 @@
+This is the first paragraph of our sample RAG document. We are testing how the DocChunker package handles standard text files.
+
+This is the second paragraph. The semantic chunker should recognize the double newline above and keep these sentences together.
