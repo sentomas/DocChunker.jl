@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.7"
+manifest_format = "2.0"
+project_hash = "8fd6255eb18e86cd165969b7fe885dfd9d46c1a7"
+
+[[deps.DocChunker]]
+path = "."
+uuid = "0ed5baa8-8470-4a3d-b80d-2c0115817ea6"
+version = "0.1.0"
